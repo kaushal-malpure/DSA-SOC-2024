@@ -8,6 +8,7 @@ https://www.geeksforgeeks.org/cpp-arrays/<br>
 https://www.geeksforgeeks.org/insertion-sort/<br>
 https://www.geeksforgeeks.org/selection-sort/<br>
 https://www.geeksforgeeks.org/bubble-sort/<br>
+https://www.geeksforgeeks.org/binary-search/<br>
 <br>
 Links to the problems for week1<br>
 
