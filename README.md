@@ -23,3 +23,26 @@ https://www.geeksforgeeks.org/problems/max-rectangle/1<br>
 https://www.geeksforgeeks.org/problems/aggressive-cows/0<br>
 https://www.naukri.com/code360/problems/painter-s-partition-problem_1089557<br>
 
+<br>
+Week-2<br>
+Reference Links for Strings, recursion, pointers<br>
+https://www.geeksforgeeks.org/strings-in-cpp/<br>
+https://www.geeksforgeeks.org/cpp-recursion/<br>
+https://www.geeksforgeeks.org/difference-between-recursion-and-iteration/<br>
+https://www.geeksforgeeks.org/cpp-pointers/<br>
+https://www.geeksforgeeks.org/cpp-multidimensional-array/<br>
+https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/<br>
+<br>
+Links to the problems for week2<br>
+https://leetcode.com/problems/valid-palindrome/description/<br>
+https://leetcode.com/problems/fibonacci-number/description/<br>
+https://leetcode.com/problems/rotate-image/description/<br>
+https://leetcode.com/problems/powx-n/description/<br>
+https://leetcode.com/problems/string-compression/description/<br>
+https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0<br>
+https://www.geeksforgeeks.org/split-the-binary-string-into-substrings-with-equal-number-of-0s-and-1s/<br>
+Bonus question<br>
+https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article<br>
+
+
+
