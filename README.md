@@ -52,7 +52,6 @@ https://www.geeksforgeeks.org/c-classes-and-objects/<br>
 https://www.geeksforgeeks.org/inheritance-in-c/<br>
 https://www.geeksforgeeks.org/linked-list-data-structure/<br>
 <br>
-<br>
 Links to the problems for week 3<br>
 https://leetcode.com/problems/reverse-linked-list/<br>
 https://leetcode.com/problems/middle-of-the-linked-list/description/<br>
