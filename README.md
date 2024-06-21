@@ -47,10 +47,10 @@ https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1?itm_source=ge
 <br>
 Week-3<br>
 Reference Links for OOPS and linked lists<br>
-https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/
-https://www.geeksforgeeks.org/c-classes-and-objects/
-https://www.geeksforgeeks.org/inheritance-in-c/
-https://www.geeksforgeeks.org/linked-list-data-structure/
+https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/<br>
+https://www.geeksforgeeks.org/c-classes-and-objects/<br>
+https://www.geeksforgeeks.org/inheritance-in-c/<br>
+https://www.geeksforgeeks.org/linked-list-data-structure/<br>
 <br>
 <br>
 Links to the problems for week 3<br>
