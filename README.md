@@ -44,5 +44,22 @@ https://www.geeksforgeeks.org/split-the-binary-string-into-substrings-with-equal
 Bonus question<br>
 https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article<br>
 
+<br>
+Week-3<br>
+Reference Links for OOPS and linked lists<br>
+https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/
+https://www.geeksforgeeks.org/c-classes-and-objects/
+https://www.geeksforgeeks.org/inheritance-in-c/
+https://www.geeksforgeeks.org/linked-list-data-structure/
+<br>
+<br>
+Links to the problems for week 3<br>
+https://leetcode.com/problems/reverse-linked-list/<br>
+https://leetcode.com/problems/middle-of-the-linked-list/description/<br>
+https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/<br>
+https://leetcode.com/problems/add-two-numbers/<br>
+https://leetcode.com/problems/delete-node-in-a-linked-list/<br>
+https://leetcode.com/problems/linked-list-cycle/description/<br>
+https://leetcode.com/problems/intersection-of-two-linked-lists/<br>
 
 
