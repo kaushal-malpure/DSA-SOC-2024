@@ -61,4 +61,31 @@ https://leetcode.com/problems/delete-node-in-a-linked-list/<br>
 https://leetcode.com/problems/linked-list-cycle/description/<br>
 https://leetcode.com/problems/intersection-of-two-linked-lists/<br>
 
+<br>
+Week-4<br>
+Reference Links for stacks, queues, deques and binary trees and their traversals<br>
+https://www.geeksforgeeks.org/stack-data-structure/<br>
+https://www.geeksforgeeks.org/queue-data-structure/<br>
+https://www.geeksforgeeks.org/stack-and-queue-c-cpp-programs/<br>
+https://www.geeksforgeeks.org/deque-cpp-stl/<br>
+https://www.geeksforgeeks.org/binary-tree-data-structure/<br>
+https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/<br>
+https://www.geeksforgeeks.org/level-order-tree-traversal/<br>
+https://www.geeksforgeeks.org/dfs-traversal-of-a-tree-using-recursion/<br>
+https://www.geeksforgeeks.org/bfs-vs-dfs-binary-tree/<br>
+
+<br>
+Links to the problems for week 4<br>
+https://www.geeksforgeeks.org/problems/implement-stack-using-array/1<br>
+https://www.geeksforgeeks.org/problems/implement-queue-using-array/1<br>
+https://leetcode.com/problems/implement-stack-using-queues/description/<br>
+https://leetcode.com/problems/implement-queue-using-stacks/<br>
+https://leetcode.com/problems/valid-parentheses/<br>
+https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1<br>
+https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1<br>
+https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1<br>
+https://leetcode.com/problems/maximum-depth-of-binary-tree/description/<br>
+  
+
+
 
