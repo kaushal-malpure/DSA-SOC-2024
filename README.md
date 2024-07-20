@@ -85,7 +85,40 @@ https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1<br>
 https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1<br>
 https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1<br>
 https://leetcode.com/problems/maximum-depth-of-binary-tree/description/<br>
-  
+
+<br>
+Week-5<br>
+Reference links for heaps, hashmaps and graphs<br>
+https://www.geeksforgeeks.org/heap-data-structure/<br>
+https://www.geeksforgeeks.org/unordered_map-in-cpp-stl/<br>
+https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/<br>
+
+<br>
+Links to the problems for week 5<br>
+https://leetcode.com/problems/kth-largest-element-in-an-array/description/<br>
+https://leetcode.com/problems/top-k-frequent-elements/description/<br>
+https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1<br>
+https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1<br>
+https://leetcode.com/problems/course-schedule/description/<br>
+https://www.geeksforgeeks.org/problems/topological-sort/1<br>
+https://leetcode.com/problems/number-of-islands/description/<br>
+https://neetcode.io/problems/max-area-of-island<br>
+
+<br>
+Week-6, 7<br>
+Reference links for dynamic programming<br>
+https://www.geeksforgeeks.org/dynamic-programming/#how-does-dynamic-programming-dp-work<br>
+https://www.youtube.com/watch?v=PGsgv6nXhLw&list=PLDzeHZWIZsTomOPnCiU3J95WufjE36wsb<br>
+
+<br>
+Links to the problems for weeks 6 & 7<br>
+https://leetcode.com/problems/maximum-product-subarray/description/<br>
+https://leetcode.com/problems/longest-increasing-subsequence/<br>
+https://leetcode.com/problems/longest-common-subsequence/description/<br>
+https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1<br>
+https://leetcode.com/problems/minimum-path-sum/description/<br>
+https://leetcode.com/problems/coin-change/description/<br>
+https://leetcode.com/problems/partition-equal-subset-sum/<br>
 
 
 
